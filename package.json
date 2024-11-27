@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test --code-coverage --watch=false --browsers ChromeHeadless ",
     "build:single-spa:dash-cam-coco-base": "ng build dash-cam-coco-base --configuration production",
-    "serve:single-spa:dash-cam-coco-base": "ng serve --project dash-cam-coco-base --disable-host-check --port 4240 --live-reload true"
+    "serve:single-spa:dash-cam-coco-base": "ng serve --project dash-cam-coco-base --disable-host-check --port 4280 --live-reload true"
   },
   "private": true,
   "dependencies": {
